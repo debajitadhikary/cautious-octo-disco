@@ -1,7 +1,3 @@
-Below is a `README.md` file tailored for your GitHub repository, showcasing the pattern problems from the "Must Do Pattern Problems Before Starting DSA" article on TakeUForward. It assumes you've written the code for all 22 patterns mentioned there. Feel free to adjust the repository name, description, or any other details to fit your needs!
-
----
-
 # Striver's Must-Do Pattern Problems
 
 Welcome to my GitHub repository containing solutions to the "Must Do Pattern Problems Before Starting DSA" from [TakeUForward](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/). This collection includes implementations of 22 foundational pattern problems designed to build logic and problem-solving skills before diving into Data Structures and Algorithms (DSA). All solutions are coded in [C++], and this repo serves as a reference for anyone starting their DSA journey.
@@ -90,7 +86,7 @@ Here’s a list of all 22 patterns covered in this repository, as presented in t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/strivers-pattern-problems.git
+   git clone https://github.com/debajitadhikary/cautious-octo-disco.git
    ```
 2. Navigate to the desired pattern file.
 3. Compile and run the C++ code using a compiler like `g++`:
@@ -116,13 +112,3 @@ Feel free to fork this repository, submit issues, or send pull requests if you�
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-### Notes:
-- Replace `[C++]` with your actual programming language if it’s different.
-- Update `your-username` in the clone URL with your GitHub username.
-- Add a `LICENSE` file to your repo if you include the license section.
-- If you’ve organized your code differently (e.g., in folders), adjust the "Repository Structure" section accordingly.
-
-Let me know if you’d like to refine this further!
