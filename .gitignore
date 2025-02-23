@@ -1,0 +1,60 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+
+# Dependency directories
+deps/
+vendor/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Debugging files
+*.pdb
+*.ilk
+core
+*.core
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Dependency management lock files (if applicable)
+conan.lock
