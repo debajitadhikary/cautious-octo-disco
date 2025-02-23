@@ -2,6 +2,43 @@
 using namespace std ;
 
 
+/*
+----------------------------------------------------------------
+Sample Input 1:
+3
+
+Sample Output 1:
+  *
+ ***
+*****
+
+Explanation Of Sample Input 1 :
+-> The first row contains two spaces, followed by a star.
+-> The second row contains one space, followed by three stars.
+-> The third row contains five stars.
+
+----------------------------------------------------------------
+Sample Input 2 :
+1
+
+Sample Output 2 :
+*
+
+----------------------------------------------------------------
+Sample Input 3 :
+7
+
+Sample Output 3 :
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+
+----------------------------------------------------------------
+*/
 
 void nStarTriangle(int n) {
     
@@ -25,7 +62,7 @@ void nStarTriangle(int n) {
 
 int main(int argc , char const *argv[]){
     
-    int n = 4 ; 
+    int n = 7 ; 
 
 
     nStarTriangle(n) ;
