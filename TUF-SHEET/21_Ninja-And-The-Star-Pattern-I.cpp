@@ -12,7 +12,7 @@ Sample Output 1:
 ***
 * *
 ***
-
+    
 ----------------------------------------------------------------
 Sample Input 2 :
 5
@@ -48,6 +48,7 @@ void getStarPattern(int n) {
 
     cout << '\n' ;
     
+    if( n == 1) return ;
 
     int mid_rows = n - 2 ,  whitespace = n - 2 ; 
 
@@ -72,7 +73,7 @@ void getStarPattern(int n) {
 
 int main(int argc , char const *argv[]){
   
-    int n = 1 ; 
+    int n = 4 ; 
 
     getStarPattern(n) ;
 
